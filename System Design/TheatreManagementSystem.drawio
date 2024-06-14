@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-06-14T06:17:19.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zCrv10_F7yfqZNWiuFCH" version="24.5.3" type="device">
+  <diagram name="Page-1" id="IpTg7lgwxAvejBhAzgju">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-5" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="-4N3s5MPVKxURlvEqK4C-6" target="-4N3s5MPVKxURlvEqK4C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-6" value="B2B CLIENTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-4N3s5MPVKxURlvEqK4C-7" target="-4N3s5MPVKxURlvEqK4C-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-7" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-8" value="PRESENTATION LAYER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-13" value="APP SERVER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-14" value="SERVICE LAYER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-15" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-4N3s5MPVKxURlvEqK4C-10" target="-4N3s5MPVKxURlvEqK4C-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4N3s5MPVKxURlvEqK4C-17" value="PERSISTENCE LAYER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
